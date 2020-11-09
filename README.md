@@ -1,6 +1,6 @@
 # world_time_test
 
-A new Flutter application.
+This Flutter Application will run on both Android and IOS. In this application the background will automatically changed with Day and night time.
 
 ## Getting Started
 
